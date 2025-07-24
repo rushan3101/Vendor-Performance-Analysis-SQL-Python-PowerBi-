@@ -14,9 +14,10 @@ This project analyzes vendor-level performance using purchase and sales data acr
 
 ---
 
-### All Pages Grid View
+### Performance Breakdowns and Top 5
 
-![Performance Breakdwon and Top 5]("Dashboard/Performance Breakdown Dashboard.png")
+![Performance Breakdowns and Top 5](Dashboard/Performance_Breakdowns_Dashboard.png)
+
 
 ---
 
