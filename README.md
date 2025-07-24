@@ -35,6 +35,7 @@ This project analyzes vendor-level performance using purchase and sales data acr
 ├── inventory.db
 ├── ingestion_db.py
 ├── get_vendor_summary.py
+├── vendor_sales_summary.csv
 ├── vendor_sales_summary.ipynb
 ├── vendor_sales_summary.pbix
 └── README.md
