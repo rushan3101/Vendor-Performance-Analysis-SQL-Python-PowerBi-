@@ -91,6 +91,8 @@ Before building the dashboard, the following steps were performed:
 
 ##### **Main Page: Overall KPIs**
 
+![Main Dashboard](Dashboard/Main.png)
+
 * Displays core performance metrics:
 
   * **Total Purchases**
@@ -146,6 +148,8 @@ Before building the dashboard, the following steps were performed:
   * Total Gross Profit
 * Final **ranking measure** created using average rank across all four KPIs
 * Dynamic filtering enabled using consistent slicers across pages
+
+![Performance Breakdowns and Top 5](Dashboard/Performance_Breakdowns_Dashboard.png)
 
 ---
 
