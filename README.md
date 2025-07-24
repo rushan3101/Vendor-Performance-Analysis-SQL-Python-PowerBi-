@@ -10,8 +10,7 @@ This project analyzes vendor-level performance using purchase and sales data acr
 
 ### Main Dashboard
 
-*(Insert image)*
-`<img src="images/main_kpi_dashboard.png" alt="Main KPI Page" width="800"/>`
+![Main Dashboard](Dashboard/Main.png)
 
 ---
 
